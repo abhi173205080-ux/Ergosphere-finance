@@ -55,10 +55,12 @@ Built with ❤️ for my father.
 ```bash
 git clone https://github.com/abhi173205080-ux/Ergosphere-finance.git
 cd Ergosphere-finance
+```
 2. Install dependencies
 bash
 pip install -r requirements.txt
-3. Run the app
+
+4. Run the app
 bash
 streamlit run app.py
 The app will open at http://localhost:8501.
