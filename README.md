@@ -59,12 +59,10 @@ cd Ergosphere-finance
 2. Install dependencies
 bash
 pip install -r requirements.txt
-
 4. Run the app
 bash
 streamlit run app.py
 The app will open at http://localhost:8501.
-
 📸 Screenshots
 (Drag and drop your dashboard screenshots here to showcase your app.)
 
