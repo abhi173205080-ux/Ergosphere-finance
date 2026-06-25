@@ -31,8 +31,7 @@ Built with ❤️ for my father.
 
 ## 🔗 Live Demo
 
-👉 **[Open Ergosphere](https://ergosphere-finance-xxxxx.streamlit.app)**  
-🔑 **Password:** `YourSecretPassword123` (if enabled)
+👉 **[Open Ergosphere](https://ergosphere-finance-d4w7ai7i2kuypynpq4ffav.streamlit.app/)**  
 
 ---
 
@@ -56,25 +55,47 @@ Built with ❤️ for my father.
 git clone https://github.com/abhi173205080-ux/Ergosphere-finance.git
 cd Ergosphere-finance
 ```
-2. Install dependencies
-bash
+### 2. Install dependencies
+```bash
 pip install -r requirements.txt
-4. Run the app
-bash
+```
+### 4. Run the app
+```bash
 streamlit run app.py
+```
+
 The app will open at http://localhost:8501.
+
 📸 Screenshots
-(Drag and drop your dashboard screenshots here to showcase your app.)
+<img width="1366" height="1559" alt="image" src="https://github.com/user-attachments/assets/cf82c0a3-dee7-4193-a7f8-ae74cd6704b6" />
+
 
 🤝 Contributing
 This is a personal project, but suggestions and improvements are welcome.
 Feel free to open an issue or fork the repository.
 
-👨‍👦 About the Developer
-Built with dedication for my father – to help him manage finances with clarity and ease.
-I hope it inspires others to build tools for their loved ones.
+👨‍🎓 About the Developer – My Story
+I am a 18‑year‑old student who just passed 12th grade and is now looking for a college.
+While waiting for admissions, I decided to use my free time to learn Python and build something truly useful.
+
+I noticed my father struggling to track his monthly expenses using spreadsheets and paper notes.
+So I created Ergosphere – a complete finance dashboard – to help him manage his finances with ease.
+
+This project is entirely self‑taught. I learned:
+
+Python fundamentals and libraries (Streamlit, Pandas, Plotly)
+
+Database management with SQLite
+
+UI/UX design for mobile and desktop
+
+Deployment on the cloud
+
+I built this app in just a few days, and I’m proud to say it works exactly as intended.
 
 — Abhi (abhi173205080-ux)
+
+
 
 📄 License
 This project is open‑source and available under the MIT License.
