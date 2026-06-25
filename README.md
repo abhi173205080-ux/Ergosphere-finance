@@ -74,6 +74,7 @@ The app will open at http://localhost:8501.
 This is a personal project, but suggestions and improvements are welcome.
 Feel free to open an issue or fork the repository.
 
+
 👨‍🎓 About the Developer – My Story
 I am a 18‑year‑old student who just passed 12th grade and is now looking for a college.
 While waiting for admissions, I decided to use my free time to learn Python and build something truly useful.
@@ -94,6 +95,7 @@ Deployment on the cloud
 I built this app in just a few days, and I’m proud to say it works exactly as intended.
 
 — Abhi (abhi173205080-ux)
+
 
 
 
