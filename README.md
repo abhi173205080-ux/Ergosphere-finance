@@ -31,7 +31,8 @@ Built with ❤️ for my father.
 
 ## 🔗 Live Demo
 
-👉 **[Open Ergosphere](https://ergosphere-finance-d4w7ai7i2kuypynpq4ffav.streamlit.app/)** 
+👉 **[Open Ergosphere](https://ergosphere-finance-xxxxx.streamlit.app)**  
+🔑 **Password:** `YourSecretPassword123` (if enabled)
 
 ---
 
@@ -50,23 +51,20 @@ Built with ❤️ for my father.
 
 ## 🚀 Quick Start (Local Setup)
 
- 1. Clone the repository
-bash
-**git clone https://github.com/abhi173205080-ux/Ergosphere-finance.git
-cd Ergosphere-finan**ce
-
+### 1. Clone the repository
+```bash
+git clone https://github.com/abhi173205080-ux/Ergosphere-finance.git
+cd Ergosphere-finance
 2. Install dependencies
 bash
-**pip install -r requirements.txt**
-
+pip install -r requirements.txt
 3. Run the app
 bash
-**streamlit run app.py
+streamlit run app.py
 The app will open at http://localhost:8501.
-**
-📸 Screenshots
 
-<img width="1366" height="1559" alt="image" src="https://github.com/user-attachments/assets/3b17e39d-0853-4952-ad78-09651a2817a8" />
+📸 Screenshots
+(Drag and drop your dashboard screenshots here to showcase your app.)
 
 🤝 Contributing
 This is a personal project, but suggestions and improvements are welcome.
